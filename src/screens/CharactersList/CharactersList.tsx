@@ -49,7 +49,7 @@ export default function CharactersList() {
 
       <div className='container'>
         <List
-          grid={{ gutter: 16, column: 2 }}
+          grid={{ gutter: 16, xs: 1, sm: 2, md: 2, lg: 5, xl: 5, xxl: 5 }}
           dataSource={list}
           loading={isLoading}
           renderItem={(item: IPeople) => <CharactersListItem item={item} />}

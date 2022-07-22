@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`The snapshot matches 1`] = `
+<div>
+  <section
+    class="ant-layout layout"
+  >
+    <header
+      class="ant-layout-header layout__header"
+    >
+      <h1>
+        Technical test - Woztell
+      </h1>
+    </header>
+    <section
+      class="ant-layout"
+    >
+      <main
+        class="ant-layout-content layout__main"
+      >
+        <h1>
+          Hollo world
+        </h1>
+      </main>
+    </section>
+    <footer
+      class="ant-layout-footer layout__footer"
+    >
+      © 2022 - Gianfranco Manganiello
+    </footer>
+  </section>
+</div>
+`;

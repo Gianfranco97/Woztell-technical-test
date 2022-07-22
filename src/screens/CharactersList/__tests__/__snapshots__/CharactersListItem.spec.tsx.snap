@@ -1,0 +1,56 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`The snapshot matches 1`] = `
+<div>
+  <li
+    class="ant-list-item"
+  >
+    <a
+      href="/1"
+    >
+      <div
+        class="ant-card ant-card-bordered"
+      >
+        <div
+          class="ant-card-head"
+        >
+          <div
+            class="ant-card-head-wrapper"
+          >
+            <div
+              class="ant-card-head-title"
+            >
+              Luke Skywalker
+            </div>
+          </div>
+        </div>
+        <div
+          class="ant-card-body"
+        >
+          <b>
+            Gender:
+          </b>
+           
+          male
+           
+          <br />
+          <b>
+            Hair color:
+          </b>
+           
+          blond
+           
+          <br />
+          <b>
+            Skin color:
+          </b>
+           
+          fair
+           
+          <br />
+        </div>
+      </div>
+    </a>
+  </li>
+</div>
+`;

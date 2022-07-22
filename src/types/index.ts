@@ -101,8 +101,8 @@ export interface IPeople {
   mass: string;
   name: string;
   skin_color: string;
-  created: Date;
-  edited: Date;
+  created: string | Date;
+  edited: string | Date;
   species: string[] | ISpecie[];
   starships: string[] | IStarship[];
   url: string;
